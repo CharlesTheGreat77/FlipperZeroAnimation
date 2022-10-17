@@ -1,5 +1,6 @@
 Filetype: Flipper Animation
 Version: 1
+
 Width: 128
 Height: 64
 Passive frames: 56
