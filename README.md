@@ -1,4 +1,4 @@
-#FlipperZero Custom Animations by DoobTheGoober -Discord (CharlesTheGreat)
+# FlipperZero Custom Animations by DoobTheGoober -Discord (CharlesTheGreat)
 
 # Quick Peeks (pictures)
  - note: When taking screenshots/recording I was on unleashed firmware.
