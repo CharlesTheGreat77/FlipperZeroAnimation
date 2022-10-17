@@ -1,12 +1,13 @@
-![Scream_Kill](https://user-images.githubusercontent.com/27988707/196075454-2f1a51d8-8f40-4edd-9d5c-1d291ba3d3f8.jpeg)
-FlipperZero Custom Animations by DoobTheGoober -Discord (CharlesTheGreat)
+#FlipperZero Custom Animations by DoobTheGoober -Discord (CharlesTheGreat)
 
 # Quick Peeks (pictures)
  - note: When taking screenshots/recording I was on unleashed firmware.
          As to why my top display bar is showing. If you wish to remove the bar on top of the flipper display,
          I would advise going to RogueMaster firmware.
          
-• Scream (Repo Cover)
+• Scream
+
+![Scream_Kill](https://user-images.githubusercontent.com/27988707/196075454-2f1a51d8-8f40-4edd-9d5c-1d291ba3d3f8.jpeg)
 
 • Pipboy
 ![Pipboy](https://user-images.githubusercontent.com/27988707/196081391-6b97c65e-2f10-4025-959c-5c98339c1e92.png)
