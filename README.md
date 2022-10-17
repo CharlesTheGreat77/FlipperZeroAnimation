@@ -26,43 +26,7 @@
 git clone https://github.com/flipperdevices/flipperzero-firmware
 ```
 
-# How to Install (png files)
-• Some folders only contain the png files for each frame, we need these to be
-  a "bm" extension. So to do this, follow along.
-  
-  1. download the "ChickenOnSteroids" file for instance.
-  1.5. Clone the official firmware repo above (in prerequisites)
-  2. Ill then drag and drop the "chicken_128x64" (in this instance) file into the "\flipperzero-firmware\assets\dolphin\external"
-   - The file location is in the repo we cloned above
-   - After dropping the file in the folder, we will then run the "fbt" script in the repo to compile the animation.
-  3. Now that the file is in the external folder, open powershell and cd into the flipperzero-firmware directory. ie
-     ```
-     cd Downloads/flipperzero-firmware
-     ```
-  4. run this command to compile your animation:
-  ```
-  ./fbt icons proto dolphin_internal dolphin_ext resources
-  ```
-  5. After successfully compiling, plug your flippers SD card into the computer.
-   - your now compiled animations can now be found under
-     "flipperzero-firmware\assets\resources\dolphin" folder
-  6. Drag and drop your newly compiled animations folder onto your flippers SD\Dolphin folder.
-  7. Edit the manifest to this text:
-```
-name: chicken_128x64
-Min butthurt: 0
-Max butthurt: 10
-Min level: 1
-Max level: 3
-Weight: 3
-```
-  - "name" is the name of the animations folder. (change according of course)
-  - "Max level" adjust to max level if on custom firmware. (ie. 30, 15 etc)
-  - "Weight" the higher the weight the higher the chance the animation will show up before other animations.
-  
-  8. Save the file and eject. Plug your SD back into the flipper and reboot! All done!
- 
-• Otherwise, were the animation files (frames) contains the "bm" file extension. The install is easy
+# How to Install EASY!
   1. Plug in your flippers SD card.
   2. Download the animations folders (that contains the "bm" file extensions!)
   3. Drag and drop the animation folder into the Flipper SD\Dolphin folder.
@@ -75,7 +39,10 @@ Min level: 1
 Max level: 3
 Weight: 3
 ```
-  - see step 7 above for help
+
+  - "name" is the name of the animations folder. (change according of course)
+  - "Max level" adjust to max level if on custom firmware. (ie. 30, 15 etc)
+  - "Weight" the higher the weight the higher the chance the animation will show up before other animations.
  
  5. Save file, eject SD, put SD in flipper, and reboot! All done!
 
