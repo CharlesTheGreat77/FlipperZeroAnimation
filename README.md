@@ -33,7 +33,7 @@ git clone https://github.com/flipperdevices/flipperzero-firmware
   1.5. Clone the official firmware repo above (in prerequisites)
   2. Ill then drag and drop the "chicken_128x64" (in this instance) file into the "\flipperzero-firmware\assets\dolphin\external"
    - The file location is in the repo we cloned above
-   - After dropping the file in the folder, we will then run the "fbt" script in the repo ton compile the animation.
+   - After dropping the file in the folder, we will then run the "fbt" script in the repo to compile the animation.
   3. Now that the file is in the external folder, open powershell and cd into the flipperzero-firmware directory. ie
      ```
      cd Downloads/flipperzero-firmware
