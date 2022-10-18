@@ -55,6 +55,7 @@ https://github.com/CharlesTheGreat77/zip2Animation
 
 # Honorable mentions
 https://github.com/Kuronons/FZ_graphics
+https://github.com/stopoxy/FZAnimations
 
 # special thanks
 Special thanks to Majik -qqmajikpp#8995
