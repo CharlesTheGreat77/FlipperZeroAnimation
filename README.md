@@ -6,8 +6,10 @@
          I would advise going to RogueMaster firmware.
          
 • Scream
-
 ![Scream_Kill](https://user-images.githubusercontent.com/27988707/196075454-2f1a51d8-8f40-4edd-9d5c-1d291ba3d3f8.jpeg)
+
+• Wazzap (Scream - Scary Movie)
+![Wazzap](https://user-images.githubusercontent.com/27988707/196324556-06eceee9-b9e2-437c-8f43-b31206eec63a.png)
 
 • Pipboy
 ![Pipboy](https://user-images.githubusercontent.com/27988707/196081391-6b97c65e-2f10-4025-959c-5c98339c1e92.png)
@@ -16,7 +18,8 @@
 ![Koko](https://user-images.githubusercontent.com/27988707/196081516-6107540a-eb13-485b-ae50-877bfeaad82f.png)
 
 • Steroids Chicken
-![ChickenSteroids](https://user-images.githubusercontent.com/27988707/196082930-64c5b906-22e1-48a9-9011-0930c1afa721.png)
+![Chicken](https://user-images.githubusercontent.com/27988707/196324283-b20543d3-4f5f-44ee-a8c6-93ac41db1d91.jpeg)
+
 
 • King of the Hill
 ![KofH](https://user-images.githubusercontent.com/27988707/196082986-a4793329-291f-45b5-9d8a-5903e0f49f02.png)
