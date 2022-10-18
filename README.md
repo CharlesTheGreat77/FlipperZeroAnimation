@@ -24,11 +24,6 @@
 • King of the Hill
 ![KofH](https://user-images.githubusercontent.com/27988707/196082986-a4793329-291f-45b5-9d8a-5903e0f49f02.png)
 
-# Prerequisite
-```
-git clone https://github.com/flipperdevices/flipperzero-firmware
-```
-
 # How to Install EASY!
   1. Plug in your flippers SD card.
   2. Download the animations folders (that contains the "bm" file extensions!)
