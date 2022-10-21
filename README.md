@@ -4,6 +4,7 @@
  - note: When taking screenshots/recording I was on unleashed firmware.
          As to why my top display bar is showing. If you wish to remove the bar on top of the flipper display,
          I would advise going to RogueMaster firmware.
+
 • roguemaster firmware
 https://github.com/RogueMaster/flipperzero-firmware-wPlugins
          
