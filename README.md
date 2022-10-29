@@ -20,6 +20,9 @@ https://github.com/RogueMaster/flipperzero-firmware-wPlugins
 • Daffy Duck
 ![Daffy Duck](https://user-images.githubusercontent.com/27988707/198847871-fb2413ef-9fae-4994-aab3-55fe3b956945.jpeg)
 
+• Drunk Felix The Cat
+![Felix](https://user-images.githubusercontent.com/27988707/198848014-2ee51068-6746-4598-acd0-78741b91fb35.jpeg)
+
 
 • Wazzap (Scream - Scary Movie)
 ![Wazzap](https://user-images.githubusercontent.com/27988707/196324556-06eceee9-b9e2-437c-8f43-b31206eec63a.png)
