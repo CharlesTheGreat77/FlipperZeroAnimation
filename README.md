@@ -11,6 +11,16 @@ https://github.com/RogueMaster/flipperzero-firmware-wPlugins
 • Scream
 ![Scream_Kill](https://user-images.githubusercontent.com/27988707/196075454-2f1a51d8-8f40-4edd-9d5c-1d291ba3d3f8.jpeg)
 
+• Koby Bryant
+![Koby](https://user-images.githubusercontent.com/27988707/198847825-ee3dbf0c-72f6-44ac-b1a3-24bb8306d9ae.jpeg)
+
+• Michael Jordan
+![MJ](https://user-images.githubusercontent.com/27988707/198847857-83f56618-a8ce-4e81-b560-5de7e707d1af.jpeg)
+
+• Daffy Duck
+![Daffy Duck](https://user-images.githubusercontent.com/27988707/198847871-fb2413ef-9fae-4994-aab3-55fe3b956945.jpeg)
+
+
 • Wazzap (Scream - Scary Movie)
 ![Wazzap](https://user-images.githubusercontent.com/27988707/196324556-06eceee9-b9e2-437c-8f43-b31206eec63a.png)
 
