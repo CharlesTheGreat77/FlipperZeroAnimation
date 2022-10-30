@@ -11,4 +11,13 @@ Frame rate: 5
 Duration: 3600
 Active cooldown: 7
 
-Bubble slots: 0
+Bubble slots: 1
+
+Slot: 0
+X: 57
+Y: 24
+Text: KOBY!
+AlignH: Right
+AlignV: Center
+StartFrame: 11
+EndFrame: 13
