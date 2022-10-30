@@ -12,7 +12,8 @@ https://github.com/RogueMaster/flipperzero-firmware-wPlugins
 ![Scream_Kill](https://user-images.githubusercontent.com/27988707/196075454-2f1a51d8-8f40-4edd-9d5c-1d291ba3d3f8.jpeg)
 
 • Koby Bryant
-![Koby](https://user-images.githubusercontent.com/27988707/198847825-ee3dbf0c-72f6-44ac-b1a3-24bb8306d9ae.jpeg)
+![Koby](https://user-images.githubusercontent.com/27988707/198860629-047caef9-c368-4d2f-a042-f755abdbf4de.jpeg)
+
 
 • Michael Jordan
 ![MJ](https://user-images.githubusercontent.com/27988707/198847857-83f56618-a8ce-4e81-b560-5de7e707d1af.jpeg)
