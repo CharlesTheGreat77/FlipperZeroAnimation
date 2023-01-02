@@ -25,9 +25,6 @@ https://github.com/RogueMaster/flipperzero-firmware-wPlugins
 ![Felix](https://user-images.githubusercontent.com/27988707/198848014-2ee51068-6746-4598-acd0-78741b91fb35.jpeg)
 
 
-• Wazzap (Scream - Scary Movie)
-![Wazzap](https://user-images.githubusercontent.com/27988707/196324556-06eceee9-b9e2-437c-8f43-b31206eec63a.png)
-
 • Pipboy
 ![Pipboy](https://user-images.githubusercontent.com/27988707/196081391-6b97c65e-2f10-4025-959c-5c98339c1e92.png)
 
@@ -38,8 +35,8 @@ https://github.com/RogueMaster/flipperzero-firmware-wPlugins
 ![Chicken](https://user-images.githubusercontent.com/27988707/196324283-b20543d3-4f5f-44ee-a8c6-93ac41db1d91.jpeg)
 
 
-• King of the Hill
-![KofH](https://user-images.githubusercontent.com/27988707/196082986-a4793329-291f-45b5-9d8a-5903e0f49f02.png)
+• Raekwon The Chef (WU-TANG!!!! WU-TANG!!!!)
+![Raekwon](https://user-images.githubusercontent.com/27988707/210195007-74615210-7745-409a-8a86-ddc361eacee7.jpeg)
 
 # How to Install EASY!
   1. Plug in your flippers SD card.
