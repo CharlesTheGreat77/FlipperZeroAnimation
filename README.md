@@ -16,7 +16,7 @@ https://github.com/RogueMaster/flipperzero-firmware-wPlugins
 • Spaceballs
 ![Spaceballs](https://user-images.githubusercontent.com/27988707/211978617-a2a702bb-0d52-47cf-9666-97b3518cf4ef.png)
 
-• 420 Rollin
+• 420 Rollin & Drivin'
 ![Open folder 420](https://user-images.githubusercontent.com/27988707/211978659-ce4041dd-f0e1-4947-bbe7-d12fb5d92828.png)
 
 • FBI Warning
