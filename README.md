@@ -7,12 +7,11 @@
 
 • roguemaster firmware
 https://github.com/RogueMaster/flipperzero-firmware-wPlugins
-         
-• Scream
-![Scream_Kill](https://user-images.githubusercontent.com/27988707/196075454-2f1a51d8-8f40-4edd-9d5c-1d291ba3d3f8.jpeg)
 
-• Koby Bryant
-![Koby](https://user-images.githubusercontent.com/27988707/198860629-047caef9-c368-4d2f-a042-f755abdbf4de.jpeg)
+
+• Illuminati Cookie
+![Illuminati](https://user-images.githubusercontent.com/27988707/211979005-0174570f-bae1-481e-a8b3-6c377a86ba1c.png)
+
 
 • Spaceballs
 ![Spaceballs](https://user-images.githubusercontent.com/27988707/211978617-a2a702bb-0d52-47cf-9666-97b3518cf4ef.png)
@@ -34,6 +33,9 @@ https://github.com/RogueMaster/flipperzero-firmware-wPlugins
 
 • Raekwon The Chef (WU-TANG!!!! WU-TANG!!!!)
 ![Raekwon](https://user-images.githubusercontent.com/27988707/210195007-74615210-7745-409a-8a86-ddc361eacee7.jpeg)
+
+• Scream
+![Scream_Kill](https://user-images.githubusercontent.com/27988707/196075454-2f1a51d8-8f40-4edd-9d5c-1d291ba3d3f8.jpeg)
 
 # How to Install EASY!
   1. Plug in your flippers SD card.
