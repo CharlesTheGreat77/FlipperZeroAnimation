@@ -14,26 +14,23 @@ https://github.com/RogueMaster/flipperzero-firmware-wPlugins
 • Koby Bryant
 ![Koby](https://user-images.githubusercontent.com/27988707/198860629-047caef9-c368-4d2f-a042-f755abdbf4de.jpeg)
 
+• Spaceballs
+![Spaceballs](https://user-images.githubusercontent.com/27988707/211978617-a2a702bb-0d52-47cf-9666-97b3518cf4ef.png)
 
-• Michael Jordan
-![MJ](https://user-images.githubusercontent.com/27988707/198847857-83f56618-a8ce-4e81-b560-5de7e707d1af.jpeg)
+• 420 Rollin
+![Open folder 420](https://user-images.githubusercontent.com/27988707/211978659-ce4041dd-f0e1-4947-bbe7-d12fb5d92828.png)
 
-• Daffy Duck
-![Daffy Duck](https://user-images.githubusercontent.com/27988707/198847871-fb2413ef-9fae-4994-aab3-55fe3b956945.jpeg)
+• FBI Warning
+![FBI Warning](https://user-images.githubusercontent.com/27988707/211978560-6c458877-76a0-46de-9f06-5dcc56c2d22c.png)
 
 • Drunk Felix The Cat
 ![Felix](https://user-images.githubusercontent.com/27988707/198848014-2ee51068-6746-4598-acd0-78741b91fb35.jpeg)
-
-
-• Pipboy
-![Pipboy](https://user-images.githubusercontent.com/27988707/196081391-6b97c65e-2f10-4025-959c-5c98339c1e92.png)
 
 • Koko the Clown
 ![Koko](https://user-images.githubusercontent.com/27988707/196081516-6107540a-eb13-485b-ae50-877bfeaad82f.png)
 
 • Steroids Chicken
 ![Chicken](https://user-images.githubusercontent.com/27988707/196324283-b20543d3-4f5f-44ee-a8c6-93ac41db1d91.jpeg)
-
 
 • Raekwon The Chef (WU-TANG!!!! WU-TANG!!!!)
 ![Raekwon](https://user-images.githubusercontent.com/27988707/210195007-74615210-7745-409a-8a86-ddc361eacee7.jpeg)
