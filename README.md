@@ -77,6 +77,13 @@ https://github.com/mnenkov/flipper-zero-animations
 Special thanks to Majik -qqmajikpp#8995
   for pioneering the way for me.
 
+# Extra 
+BADUSB Repo
+https://github.com/CharlesTheGreat77/BADUSB
+
+# Token Grabber for BADUSB
+https://github.com/CharlesTheGreat77/token2Discord
+
 ### 💬 Contact Me 
 
 ![Gmail Badge](https://img.shields.io/badge/-doobthegoober@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)
