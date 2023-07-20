@@ -1,14 +1,5 @@
 # FlipperZero Custom Animations
 
-# Quick Peeks (pictures)
- - note: When taking screenshots/recording I was on unleashed firmware.
-         As to why my top display bar is showing. If you wish to remove the bar on top of the flipper display,
-         I would advise going to RogueMaster firmware.
-
-• roguemaster firmware
-https://github.com/RogueMaster/flipperzero-firmware-wPlugins
-
-
 • Illuminati Cookie
 ![Illuminati](https://user-images.githubusercontent.com/27988707/211979005-0174570f-bae1-481e-a8b3-6c377a86ba1c.png)
 
