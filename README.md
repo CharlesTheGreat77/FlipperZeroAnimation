@@ -1,5 +1,9 @@
 # FlipperZero Custom Animations
 
+• PBR (Blue Ribbon 🍻)
+![PBR](https://github.com/CharlesTheGreat77/FlipperZeroAnimation/assets/27988707/574e2e14-b1d6-4480-8c95-0f51e37d30ee)
+
+
 • Illuminati Cookie
 ![Illuminati](https://user-images.githubusercontent.com/27988707/211979005-0174570f-bae1-481e-a8b3-6c377a86ba1c.png)
 
