@@ -68,10 +68,6 @@ https://github.com/stopoxy/FZAnimations
 
 https://github.com/mnenkov/flipper-zero-animations
 
-# special thanks
-Special thanks to Majik -qqmajikpp#8995
-  for pioneering the way for me.
-
 # Extra 
 BADUSB Repo
 https://github.com/CharlesTheGreat77/BADUSB
